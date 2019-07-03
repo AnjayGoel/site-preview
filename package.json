@@ -1,11 +1,15 @@
 {
   "name": "site-preview",
   "version": "1.0.0",
-  "description": "",
+  "description": "A node module to generate a webpage preview by using html metadata",
   "main": "index.js",
   "keywords": [],
-  "author": "",
+  "author": "Anjay Goel",
   "license": "ISC",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/AnjayGoel/site-preview"
+   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "request": "^2.88.0"
