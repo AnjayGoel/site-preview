@@ -14,13 +14,13 @@ sitePreview.fromURL("https://www.github.com/",function (data) {
 Output:
 ```json
 {
-    title: 'GitHub',
-    favicon: 'https://github.githubassets.com/favicon.ico',
-    description: 'GitHub is where people build software. More than 36 million people use GitHub to discover, fork, and contribute to over 100 million projects.',
-    image: 'https://github.githubassets.com/images/modules/open_graph/github-octocat.png',
-    url: 'https://github.com',
-    site: 'github',
-    author: 'github'
+    "title": "GitHub",
+    "favicon": "https://github.githubassets.com/favicon.ico",
+    "description": "GitHub is where people build software. More than 36 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+    "image": "https://github.githubassets.com/images/modules/open_graph/github-octocat.png",
+    "url": "https://github.com",
+    "site": "github",
+    "author": "github"
 }
 ```
 alternatively you could also use 
