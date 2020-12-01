@@ -1,4 +1,4 @@
-# Site-preview
+# Site-Preview
 Node module to get information such as title, description and images from a webpage.  
 Site-preview uses html metadata and standards such as open-graph and twitter-cards to generate summary of the webpage.  
 ## Installation
